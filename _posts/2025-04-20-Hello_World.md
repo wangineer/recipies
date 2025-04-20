@@ -21,12 +21,12 @@ Welcome to my new website! Its going to have pictures and recipies of things I m
 Here is a list of things I have
 
 ## Grills/Smokers
-1 Smokey Joe
-2 Weber Kettles
-2 Weber Smokey Mountains (One is busted)
-1 40" Masterbuilt Electic Smoker
+  - 1 Smokey Joe
+  - 2 Weber Kettles
+  - 2 Weber Smokey Mountains (One is busted)
+  - 1 40" Masterbuilt Electic Smoker
 
 ## Pots/Pans
-Lodge Camp Dutch Oven
-Lodge Cast Iron Skillet
-1 Matfer Bourgeat Black Carbon Steel Frying Pan, 8 1/2"
+  - Lodge Camp Dutch Oven
+  - Lodge Cast Iron Skillet
+  - 1 Matfer Bourgeat Black Carbon Steel Frying Pan, 8 1/2"
