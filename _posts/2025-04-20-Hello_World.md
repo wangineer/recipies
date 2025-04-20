@@ -7,8 +7,8 @@ tags: [hello,aboutme]     # TAG names should always be lowercase
 toc: true
 # comments: active
 ping: true
-image:
-  path: '/assets/img/headers/hello.webp'
+#mage:
+#  path: '/assets/img/headers/hello.webp'
 pin: true
 # published: false
 ---
