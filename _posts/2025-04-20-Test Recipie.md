@@ -9,7 +9,7 @@ toc: true
 ping: true
 #mage:
 #  path: '/assets/img/headers/hello.webp'
-pin: true
+pin: false
 published: true
 ---
 

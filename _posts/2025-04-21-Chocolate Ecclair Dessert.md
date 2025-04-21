@@ -1,6 +1,6 @@
 ---
 title: Chocolate Ecclair
-description: So simple even a bachelor can do it!
+description: Indulge in the ultimate homemade dessert with our easy-to-make Graham Cracker Delight! This no-bake recipe layers rich French vanilla pudding, light Cool Whip, and crisp graham crackers, all topped with a smooth layer of chocolate frosting for the perfect sweet treat. Whether you're prepping for a potluck or satisfying a midnight craving, this Graham Cracker Delight is sure to be a crowd-pleaser. With simple ingredients and overnight refrigeration, you'll have a decadent dessert that combines the classic flavors of vanilla and chocolate in every creamy, crunchy bite. Follow our step-by-step guide to assemble this delightful dessert in a 9 x 13 pan and create a memorable treat that your family and friends will request time and again!
 date: 2025-04-20 12:00:00:01 +/-0000
 categories: [dessert, cold]
 tags: [chocolate,vanilla,graham]     # TAG names should always be lowercase
@@ -9,7 +9,7 @@ toc: true
 ping: true
 #mage:
 #  path: '/assets/img/headers/hello.webp'
-pin: true
+pin: false
 published: true
 ---
 

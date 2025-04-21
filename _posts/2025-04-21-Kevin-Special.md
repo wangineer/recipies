@@ -1,6 +1,6 @@
 ---
 title: Kevin Special
-description: I didn't burn it
+description: A TexMex Salad option
 date: 2025-04-20 12:00:00:01 +/-0000
 categories: [dinner, groundbeef]
 tags: [TexMex,tacosalad]     # TAG names should always be lowercase
@@ -9,7 +9,7 @@ toc: true
 ping: true
 #mage:
 #  path: '/assets/img/headers/hello.webp'
-pin: true
+pin: false
 published: true
 ---
 

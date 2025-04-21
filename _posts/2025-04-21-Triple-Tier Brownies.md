@@ -6,7 +6,7 @@ categories: [dessert, cold]
 tags: [chocolate,marshmallow,ricecrispies]     # TAG names should always be lowercase
 toc: true
 # comments: active
-ping: true
+ping: false
 #mage:
 #  path: '/assets/img/headers/hello.webp'
 pin: true
