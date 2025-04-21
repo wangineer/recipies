@@ -1,6 +1,6 @@
 ---
 title: Kevin Special
-description: A TexMex Salad option
+description: Experience the bold flavors of the Southwest with our Frito Pie recipe, a hearty and satisfying dish that's perfect for family dinners or casual get-togethers. This recipe combines savory ground beef, aromatic onions, and a rich tomato base infused with a blend of spices like cumin, oregano, and chili powder, creating a mouthwatering mixture that's both comforting and full of zest. Layered over a bed of crunchy Fritos and topped with fresh, shredded lettuce, ripe tomatoes, sliced olives, and a generous sprinkle of shredded cheese, each serving is finished with a drizzle of creamy ranch dressing for a delightful contrast. The addition of perfectly cooked rice ensures this dish is not only delicious but also filling. Follow our simple steps to create this crowd-pleasing Frito Pie that's sure to become a new favorite at your table
 date: 2025-04-20 12:00:00:01 +/-0000
 categories: [dinner, groundbeef]
 tags: [TexMex,tacosalad]     # TAG names should always be lowercase
