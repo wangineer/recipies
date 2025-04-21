@@ -6,7 +6,6 @@ categories: [drink, alcohol]
 tags: [pinacoladas,milkshake,rum,coffee,icecream]     # TAG names should always be lowercase
 toc: true
 # comments: active
-ping: false
 #mage:
 #  path: '/assets/img/headers/hello.webp'
 pin: false

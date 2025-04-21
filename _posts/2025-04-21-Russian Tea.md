@@ -6,7 +6,6 @@ categories: [drink, virgin]
 tags: [tang,sweet]     # TAG names should always be lowercase
 toc: true
 # comments: active
-ping: true
 # image:
 #    path: '/assets/img/headers/hello.webp'
 pin: false

@@ -6,7 +6,6 @@ categories: [cooking, butter]
 tags: [garlic,chive,butter,parsley]     # TAG names should always be lowercase
 toc: true
 # comments: active
-ping: false
 #mage:
 #  path: '/assets/img/headers/hello.webp'
 pin: false

@@ -6,7 +6,6 @@ categories: [dessert, cold]
 tags: [chocolate,vanilla,graham]     # TAG names should always be lowercase
 toc: true
 # comments: active
-ping: true
 #mage:
 #  path: '/assets/img/headers/hello.webp'
 pin: false
