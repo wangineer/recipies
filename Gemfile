@@ -4,6 +4,10 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy"
 #, "~> 7.2", ">= 7.2.4"
+# Added below
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
 
 gem "html-proofer", "~> 5.0", group: :test
 
