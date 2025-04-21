@@ -13,7 +13,7 @@ pin: true
 # published: false
 ---
 
-# Hello World 3!
+# Hello World 2!
 
 Welcome to my new website! Its going to have pictures and recipies of things I make. 
 
