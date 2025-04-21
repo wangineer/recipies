@@ -10,7 +10,7 @@ ping: true
 #mage:
 #  path: '/assets/img/headers/hello.webp'
 pin: true
-# published: false
+published: true
 ---
 
 # Hello World 2!
