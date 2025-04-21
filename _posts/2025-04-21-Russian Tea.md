@@ -1,14 +1,14 @@
 ---
 title: Russian (Friendship) Tea
-description: I didn't burn it
+description: 
 date: 2025-04-20 12:00:00:01 +/-0000
 categories: [drink, virgin]
 tags: [tang,sweet]     # TAG names should always be lowercase
 toc: true
 # comments: active
 ping: true
-#mage:
-#  path: '/assets/img/headers/hello.webp'
+# image:
+#    path: '/assets/img/headers/hello.webp'
 pin: true
 published: true
 ---
