@@ -26,5 +26,6 @@ When I would visit my Aunt she would make this.  I always enjoy this in the wint
 ## Directions:
 Step 1: Mix – Shake Well – 2 tsp Per Cup (i go for more because I despise tea)
 
-Note:  Its a lot like making Hot Chocolate.
+> It's a lot like making Hot Chocolate
+{: .prompt-tip }
 
