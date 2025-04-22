@@ -7,7 +7,7 @@ tags: [pinacoladas,milkshake,rum,coffee,icecream]     # TAG names should always 
 toc: true
 # comments: active
 image:
-  path: '/assets/img/headers/hbushwacker.webp'
+  path: '/assets/img/headers/bushwacker.webp'
 pin: false
 published: true
 ---
