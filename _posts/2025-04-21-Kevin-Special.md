@@ -6,17 +6,16 @@ categories: [dinner, groundbeef]
 tags: [TexMex,tacosalad]     # TAG names should always be lowercase
 toc: true
 # comments: active
-ping: true
 #mage:
 #  path: '/assets/img/headers/hello.webp'
 pin: false
 published: true
 ---
 
-# Backstory
+## Backstory
 This came from our Church directory and had an unsavory name for it.  When I went to college this is one of the things I made for some friends.  They renamed it "Kevin Special"
 
-# Ingredients:
+## Ingredients:
 
   - 1 lb of Ground Beef
   - 1 Small Onion
@@ -37,7 +36,7 @@ This came from our Church directory and had an unsavory name for it.  When I wen
   - Shredded cheese
   - Ranch Dressing
 
-# Directions:
+## Directions:
 Step 1 :Brown ground beef and onion, drain.
 Step 2: Add tomato sauce, paste, water, sugar, garlic and spices. Simmer for 40 Minutes
 Step 3: Make the rice (Boil in a Bag – Is a simple an donly takes 10 minutes)

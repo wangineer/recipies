@@ -12,13 +12,13 @@ pin: false
 published: true
 ---
 
-# Backstory
+## Backstory
 Saw this on @howtobbqright instagram page for adding this butter to filet mignon's.
 
-# Notes/Prep
+## Notes/Prep
 Can use a small castiron skillet or I use a little silver thing. 
 
-# Ingredients:
+## Ingredients:
   - olive oil
   - 2 sticks of butter
   - A few garlic cloves
@@ -27,11 +27,11 @@ Can use a small castiron skillet or I use a little silver thing.
   
 
 
-# Directions:
-Step 1. Heat up the thing on the grill that you are using to make the stuff
-Step 2. Put the chopped challots and minced garlic in with some olive oil
-Step 3. Let sautte for a minute or until they get soft
-Step 4. Add 2 Sticks of butter and take off the heat
-Step 5. Put a bit of Parsley in at the end.
+## Directions:
+  - Step 1. Heat up the thing on the grill that you are using to make the stuff
+  - Step 2. Put the chopped challots and minced garlic in with some olive oil
+  - Step 3. Let sautte for a minute or until they get soft
+  - Step 4. Add 2 Sticks of butter and take off the heat
+  - Step 5. Put a bit of Parsley in at the end.
 
 

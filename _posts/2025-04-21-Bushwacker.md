@@ -12,14 +12,14 @@ pin: false
 published: true
 ---
 
-# Backstory
+## Backstory
 Had this in Panama City Beach Florida.  It was delicious
 
 ## Notes/Prep
 This isn't a tried Recipe. Just something I got off a website 
   - https://www.liquor.com/bushwacker-cocktail-recipe-5198246
 
-# Ingredients:
+## Ingredients:
   - 2 ounces dark rum
   - 1 ounce coffee liqueur (such as Kahlúa)
   - 1 ounce dark creme de cacao
@@ -28,7 +28,7 @@ This isn't a tried Recipe. Just something I got off a website
   - Garnish: nutmeg, freshly grated
 
 
-# Directions:
+## Directions:
 Add the dark rum, coffee liqueur, dark creme de cacao, whole milk, cream of coconut and a cup of ice into a blender and blend until combined and frothy.
 
 Pour into a Hurricane glass.
