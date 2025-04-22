@@ -6,8 +6,8 @@ categories: [drink, tea]
 tags: [tang,sweet]     # TAG names should always be lowercase
 toc: true
 # comments: active
-# image:
-#    path: '/assets/img/headers/hello.webp'
+image:
+  path: '/assets/img/headers/russiantea.jpg'
 pin: false
 published: true
 ---

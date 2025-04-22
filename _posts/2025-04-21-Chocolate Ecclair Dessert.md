@@ -6,8 +6,8 @@ categories: [dessert, cold]
 tags: [chocolate,vanilla,graham]     # TAG names should always be lowercase
 toc: true
 # comments: active
-#mage:
-#  path: '/assets/img/headers/hello.webp'
+image:
+  path: '/assets/img/headers/chocecclair.jpeg'
 pin: false
 published: true
 ---
