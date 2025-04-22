@@ -6,36 +6,35 @@ order: 5
 
 > Add Markdown syntax content to file `_tabs/tools.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
-# Place all my Recommended Tools below
 
-# Grills/Smokers/etc
+## Grills/Smokers/etc
 
-## Grills
+### Grills
   - Smokey Joe
   - Weber Kettle 22"
 
-## Smokers
+### Smokers
   - Weber Smokey Mountain 22"
   - 40" MasterBuilt Electric Smoker
 
-## Pots/Pans
+### Pots/Pans
 
-## Dutch Ovens
+### Dutch Ovens
   - Lodge Camp Dutch Oven
   - Lodge Ceramic Dutch Oven
 
-# Thermometers
-  ## WiFi
+## Thermometers
+### WiFi
    - BBQ Guru
    - Inkbird
    - ThermoPro
 
-  ## Probe
+### Probe
     - Thermopro TP20
 
-# Accessories
+## Accessories
 
-  ## Tools
-  ## Gloves
-  ## Fire
-  ## Containers
+### Tools
+### Gloves
+### Fire
+### Containers
