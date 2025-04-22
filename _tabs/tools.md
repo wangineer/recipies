@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fa-solid fa-fire
 order: 5
+toc: true
 ---
 
 ## Grills/Smokers/etc
@@ -18,7 +19,7 @@ order: 5
   - Lodge Camp Dutch Oven
   - Lodge Cast Iron Skillet
   - Matfer Bourgeat Black Carbon Steel Frying Pan, 8 1/2”
-  
+
 ### Dutch Ovens
   - Lodge Camp Dutch Oven
   - Lodge Ceramic Dutch Oven
