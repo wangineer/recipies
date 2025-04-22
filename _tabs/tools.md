@@ -15,7 +15,10 @@ order: 5
   - 40" MasterBuilt Electric Smoker
 
 ### Pots/Pans
-
+  - Lodge Camp Dutch Oven
+  - Lodge Cast Iron Skillet
+  - Matfer Bourgeat Black Carbon Steel Frying Pan, 8 1/2”
+  
 ### Dutch Ovens
   - Lodge Camp Dutch Oven
   - Lodge Ceramic Dutch Oven
