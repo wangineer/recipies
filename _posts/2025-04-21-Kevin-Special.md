@@ -6,8 +6,8 @@ categories: [dinner, groundbeef]
 tags: [TexMex,tacosalad]     # TAG names should always be lowercase
 toc: true
 # comments: active
-#mage:
-#  path: '/assets/img/headers/hello.webp'
+image:
+  path: '/assets/img/headers/mexicanhaystacks.jpg'
 pin: false
 published: true
 ---
