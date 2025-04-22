@@ -2,7 +2,7 @@
 title: Melted Garlic Chive Butter
 description: Master the art of simple yet exquisite flavors with our Garlic Chive Butter recipe, perfect for elevating any meal. This recipe calls for just a handful of ingredients, including fresh garlic, chives, and parsley flakes, all melded together in the richness of melted butter. Begin by heating your preferred cookware on the grill, whether it's a quaint cast-iron skillet or a handy 'little silver thing'. Sauté chopped chives and minced garlic in olive oil until they're tender and aromatic. Then, stir in two full sticks of butter, allowing them to gently melt away from the direct heat to avoid burning. Finish off with a sprinkle of parsley for a touch of color and a burst of herby flavor. This versatile Garlic Chive Butter is not just a recipe but a secret weapon for chefs and home cooks alike, ready to transform grilled steaks, roasted vegetables, or warm bread into irresistible dishes.
 date: 2025-04-20 12:00:00:01 +/-0000
-categories: [cooking, butter]
+categories: [flavor, butter]
 tags: [garlic,chive,butter,parsley]     # TAG names should always be lowercase
 toc: true
 # comments: active
