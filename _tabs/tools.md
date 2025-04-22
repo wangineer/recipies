@@ -30,7 +30,7 @@ order: 5
    - ThermoPro
 
 ### Probe
-    - Thermopro TP20
+   - Thermopro TP20
 
 ## Accessories
 

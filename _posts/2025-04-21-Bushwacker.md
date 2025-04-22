@@ -15,7 +15,7 @@ published: true
 # Backstory
 Had this in Panama City Beach Florida.  It was delicious
 
-# Notes/Prep
+## Notes/Prep
 This isn't a tried Recipe. Just something I got off a website 
   - https://www.liquor.com/bushwacker-cocktail-recipe-5198246
 
