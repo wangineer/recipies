@@ -6,8 +6,8 @@ categories: [dessert, cold]
 tags: [chocolate,marshmallow,ricecrispies]     # TAG names should always be lowercase
 toc: true
 # comments: active
-#mage:
-#  path: '/assets/img/headers/hello.webp'
+image:
+  path: '/assets/img/headers/tripltierdessert.jpg'
 pin: false
 published: true
 ---
