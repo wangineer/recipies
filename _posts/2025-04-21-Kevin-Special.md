@@ -37,9 +37,9 @@ This came from our Church directory and had an unsavory name for it.  When I wen
   - Ranch Dressing
 
 ## Directions:
-Step 1 :Brown ground beef and onion, drain.
-Step 2: Add tomato sauce, paste, water, sugar, garlic and spices. Simmer for 40 Minutes
-Step 3: Make the rice (Boil in a Bag – Is a simple an donly takes 10 minutes)
-Step 4: Add rice and cook 5 minutes.
-Step 5: Serve over Fritos topped with shredded lettuce, chopped tomatoes, olives, grated cheese etc.
-Step 6: Top with Ranch Dressing.
+  - Step 1 :Brown ground beef and onion, drain.
+  - Step 2: Add tomato sauce, paste, water, sugar, garlic and spices. Simmer for 40 Minutes
+  - Step 3: Make the rice (Boil in a Bag – Is a simple an donly takes 10 minutes)
+  - Step 4: Add rice and cook 5 minutes.
+  - Step 5: Serve over Fritos topped with shredded lettuce, chopped tomatoes, olives, grated cheese etc.
+  - Step 6: Top with Ranch Dressing.
